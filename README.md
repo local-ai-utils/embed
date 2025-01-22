@@ -18,11 +18,6 @@ Then update your `ai-utils.yml` file.
 
 ### Usage
 ```
-$ # Run once for new installs, and whenever new plugins are added
-$ assist update_assistant
-<outputs the configuration details of your assistant>
-
-
 $ embed "this is some text to embed"
 -0.0028965063
 -0.023933379
